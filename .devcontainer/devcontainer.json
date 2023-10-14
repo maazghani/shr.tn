@@ -1,0 +1,4 @@
+{
+    "name": "my-project-devcontainer",
+    "image": "ghcr.io/maazghani/dotfiles:latest" 
+}
