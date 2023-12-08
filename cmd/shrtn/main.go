@@ -1,4 +1,4 @@
-package requestrouter
+package shrtn
 
 import (
 	"fmt"

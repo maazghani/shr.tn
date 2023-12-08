@@ -1,7 +1,6 @@
 package backend
 
 import (
-	"backend"
 	"reflect"
 	"testing"
 )
